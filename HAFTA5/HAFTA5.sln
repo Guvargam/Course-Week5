@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_CumledenRastgeleHarfSec", "01_CumledenRastgeleHarfSec\01_CumledenRastgeleHarfSec.csproj", "{C4E5F1AA-89D6-4947-B942-393F2DB12500}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Konu Anlatım", "Konu Anlatım", "{368D29B3-C6E3-4506-BD9E-49BBC44B05CA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Uygulama", "Uygulama", "{D426DD91-BDE9-4D82-957E-CAE8AD7C9254}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_RastgeleHarflerdenKelime", "02_RastgeleHarflerdenKelime\02_RastgeleHarflerdenKelime.csproj", "{125F0790-248A-441A-AA3C-C349F178B42A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Donguler", "01_Donguler\01_Donguler.csproj", "{C8B9BD48-12AC-4DDA-BA29-F7174E5CF5A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_DonguOrnekleri", "03_DonguOrnekleri\03_DonguOrnekleri.csproj", "{995DFB79-1A81-4991-916D-1FF91307FF6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_3unKatlari", "04_3unKatlari\04_3unKatlari.csproj", "{18D8391E-5A75-4AE4-AE8B-D817C71B752A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4E5F1AA-89D6-4947-B942-393F2DB12500}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4E5F1AA-89D6-4947-B942-393F2DB12500}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4E5F1AA-89D6-4947-B942-393F2DB12500}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4E5F1AA-89D6-4947-B942-393F2DB12500}.Release|Any CPU.Build.0 = Release|Any CPU
+		{125F0790-248A-441A-AA3C-C349F178B42A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{125F0790-248A-441A-AA3C-C349F178B42A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{125F0790-248A-441A-AA3C-C349F178B42A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{125F0790-248A-441A-AA3C-C349F178B42A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8B9BD48-12AC-4DDA-BA29-F7174E5CF5A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8B9BD48-12AC-4DDA-BA29-F7174E5CF5A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8B9BD48-12AC-4DDA-BA29-F7174E5CF5A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8B9BD48-12AC-4DDA-BA29-F7174E5CF5A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{995DFB79-1A81-4991-916D-1FF91307FF6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{995DFB79-1A81-4991-916D-1FF91307FF6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{995DFB79-1A81-4991-916D-1FF91307FF6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{995DFB79-1A81-4991-916D-1FF91307FF6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18D8391E-5A75-4AE4-AE8B-D817C71B752A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18D8391E-5A75-4AE4-AE8B-D817C71B752A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18D8391E-5A75-4AE4-AE8B-D817C71B752A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18D8391E-5A75-4AE4-AE8B-D817C71B752A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C4E5F1AA-89D6-4947-B942-393F2DB12500} = {D426DD91-BDE9-4D82-957E-CAE8AD7C9254}
+		{125F0790-248A-441A-AA3C-C349F178B42A} = {D426DD91-BDE9-4D82-957E-CAE8AD7C9254}
+		{C8B9BD48-12AC-4DDA-BA29-F7174E5CF5A0} = {368D29B3-C6E3-4506-BD9E-49BBC44B05CA}
+		{995DFB79-1A81-4991-916D-1FF91307FF6D} = {D426DD91-BDE9-4D82-957E-CAE8AD7C9254}
+		{18D8391E-5A75-4AE4-AE8B-D817C71B752A} = {D426DD91-BDE9-4D82-957E-CAE8AD7C9254}
+	EndGlobalSection
+EndGlobal

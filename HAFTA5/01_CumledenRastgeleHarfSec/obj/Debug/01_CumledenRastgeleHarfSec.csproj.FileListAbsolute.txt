@@ -1,0 +1,6 @@
+F:\2018-2019-GrupDosyaları\C#1\3-Perş-Cuma -Sabah\HAFTA5\01_CumledenRastgeleHarfSec\bin\Debug\01_CumledenRastgeleHarfSec.exe.config
+F:\2018-2019-GrupDosyaları\C#1\3-Perş-Cuma -Sabah\HAFTA5\01_CumledenRastgeleHarfSec\bin\Debug\01_CumledenRastgeleHarfSec.exe
+F:\2018-2019-GrupDosyaları\C#1\3-Perş-Cuma -Sabah\HAFTA5\01_CumledenRastgeleHarfSec\bin\Debug\01_CumledenRastgeleHarfSec.pdb
+F:\2018-2019-GrupDosyaları\C#1\3-Perş-Cuma -Sabah\HAFTA5\01_CumledenRastgeleHarfSec\obj\Debug\01_CumledenRastgeleHarfSec.csprojResolveAssemblyReference.cache
+F:\2018-2019-GrupDosyaları\C#1\3-Perş-Cuma -Sabah\HAFTA5\01_CumledenRastgeleHarfSec\obj\Debug\01_CumledenRastgeleHarfSec.exe
+F:\2018-2019-GrupDosyaları\C#1\3-Perş-Cuma -Sabah\HAFTA5\01_CumledenRastgeleHarfSec\obj\Debug\01_CumledenRastgeleHarfSec.pdb
